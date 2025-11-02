@@ -2,6 +2,7 @@
   <div>
     <Header />
     <HomeAboutusMain />
+    <HomeCategoriesMain />
     <NuxtPage />
   </div>
 </template>
