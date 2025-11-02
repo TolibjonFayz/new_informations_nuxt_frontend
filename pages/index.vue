@@ -1,7 +1,5 @@
 <template>
   <section class="home">
-    <h1>Welcome to Bilim Manba</h1>
-    <p>Your gateway to structured knowledge and clear documentation.</p>
   </section>
 </template>
 
